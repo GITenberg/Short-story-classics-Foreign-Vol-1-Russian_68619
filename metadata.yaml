@@ -1,0 +1,42 @@
+_repo: Short-story-classics-Foreign-Vol-1-Russian_68619
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Patten, William
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '1118'
+    url: http://www.gutenberg.org/2009/agents/1118
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68619'
+language: en
+pgterms:marc904: https://archive.org/details/shortstoryclassi01pattrich
+pgterms:marc905: 20200525120516patten
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: "so far\tAndrés V. Galia, Ed Leckert, Supawe, Xsanf, John Robbins\
+  \ and the Online Distributed Proofreading Team at https://www.pgdp.net (This file\
+  \ was produced from images generously made available by The Internet Archive)"
+publication_note: United States :P. F. Collier & Son,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcsh 'Short stories, Russian -- Translations into English'
+- !lcc 'PG'
+- GITenberg
+tableOfContents: The queen of spades, by Alexander Sergeievitch Poushkin -- The cloak,
+  by Nikolai Vasilievitch Gogol -- The rendezvous, by Ivan Turgenev -- The counting-house,
+  by Ivan Turgenev -- The thief, by Feodor Mikailovitch Dostoievski -- The long exile,
+  by Count Leo Nikolaievitch Tolstoi -- Easter night, by Vladímir Galaktionovitch
+  Korolénko -- The signal, by Vsevolod Mikailovitch Garshin -- The curse of fame,
+  by Ignatiy Nikolaievitch Potapenko -- A work of art, by Anton Pavlovitch Chekhov
+  -- The slanderer, by Anton Pavlovitch Chekhov -- Faust, by Eugène Nikolaievitch
+  Chirikov -- The duel, by Nikolai Dmítrievitch Teleshov -- Boless, by Alexei Maximovitch
+  Pyeshkov (Maxim Gorki) -- The love of a scene-painter, by "Skitalitz" -- Valia,
+  by Leonid Andreiev.
+title: Short story classics (Foreign), Vol. 1, Russian
+url: http://www.gutenberg.org/ebooks/68619
